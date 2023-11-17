@@ -1,0 +1,18 @@
+.home-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    background: rgb(0, 0, 0);
+    margin-right: 50px;
+    border-radius: 50%;
+    border: 25px solid #00abf0;
+    box-shadow: 0 0 50px #00abf0;
+
+}
+.home-img img{
+    position: relative;
+    max-width: 470px;
+    border-radius: 50%;
+}
